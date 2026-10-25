@@ -1,5 +1,5 @@
 # BIDS
-Code and models from the paper "BIDS: A Reliable Boundary-based Intrusion Detection System".
+Code and models from the paper "IDSForge: Self-Explaining Network Intrusion Detection Through Neural Behavioral Rule Learning".
 
 We do not provide datasets as they are sourced from publicly available resources. They originate from: 
 - https://www.unb.ca/cic/datasets/ids-2017.html
